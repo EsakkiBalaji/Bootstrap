@@ -1,6 +1,16 @@
-body {
-    background-color: rgb(206, 255, 255);
+.container{
+    background-color: #672ed8d5;
+    color: #fff;
 }
-div{
-    background-color: rgb(255, 78, 196);
+.pa20 {
+    padding: 20px;
+}
+.bg {
+    background-color: rgb(208, 122, 255);
+    border: 1px solid rgb(103, 103, 103);
+}
+.grid {
+    min-height: 500px;
+    background-color: #d5c0ffd5;
+    color: black;
 }
